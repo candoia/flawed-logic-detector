@@ -1,0 +1,7 @@
+{
+  "name": "flawed-logic",
+  "version": "0.0.1",
+  "author": "Nitin Mukesh Tiwari",
+  "description": "Displays the number of instances of if-else logic, where depth is greater than 10.",
+  "main": "main.html"
+}
