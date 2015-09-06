@@ -2,6 +2,6 @@
   "name": "Flawed-logic-detector",
   "version": "0.0.1",
   "author": "Nitin Mukehs Tiwari",
-  "description": "Displays the instances of If-Else, where depth of logic is more than 10.",
+  "description": "Checks and warn against deeply nested if statements.",
   "main": "main.html"
 }
