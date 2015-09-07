@@ -1,7 +1,16 @@
 {
   "name": "flawed-logic",
-  "version": "0.0.1",
-  "author": "Nitin Mukesh Tiwari",
+  "productName": "Flawed Logic",
+  "version": "0.1.0",
+  "author": "Nitin Mukesh Tiwari <nmtiwari@iastate.edu>",
   "description": "Displays the number of instances of if-else logic, where depth is greater than 10.",
-  "main": "main.html"
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candoia/flawed-logic-detector"
+  },
+  "icon": {
+	"type": "fa",
+	"name": "pi-chart"
+  }
 }
